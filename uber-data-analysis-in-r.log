@@ -1,0 +1,159 @@
+5.1s 1 
+5.1s 2 Attaching package: ‘lubridate’
+5.1s 3 
+5.1s 4 
+5.1s 5 
+5.1s 6 
+5.1s 7 Attaching package: ‘lubridate’
+5.1s 8 
+5.1s 9 
+5.1s 10 The following objects are masked from ‘package:base’:
+5.1s 11 
+5.1s 12 date, intersect, setdiff, union
+5.1s 13 
+5.1s 14 
+5.1s 15 
+5.1s 16 The following objects are masked from ‘package:base’:
+5.1s 17 
+5.1s 18 date, intersect, setdiff, union
+5.1s 19 
+5.1s 20 
+5.1s 21 
+5.1s 22 Attaching package: ‘dplyr’
+5.1s 23 
+5.1s 24 
+5.1s 25 
+5.1s 26 
+5.1s 27 Attaching package: ‘dplyr’
+5.1s 28 
+5.1s 29 
+5.1s 30 The following objects are masked from ‘package:stats’:
+5.1s 31 
+5.1s 32 filter, lag
+5.1s 33 
+5.1s 34 
+5.1s 35 
+5.1s 36 The following objects are masked from ‘package:stats’:
+5.1s 37 
+5.1s 38 filter, lag
+5.1s 39 
+5.1s 40 
+5.1s 41 The following objects are masked from ‘package:base’:
+5.1s 42 
+5.1s 43 intersect, setdiff, setequal, union
+5.1s 44 
+5.1s 45 
+5.1s 46 
+5.1s 47 The following objects are masked from ‘package:base’:
+5.1s 48 
+5.1s 49 intersect, setdiff, setequal, union
+5.1s 50 
+5.1s 51 
+5.9s 52 ── [1mAttaching packages[22m ─────────────────────────────────────── tidyverse 1.3.0 ──
+5.9s 53 
+5.9s 54 
+5.9s 55 ── [1mAttaching packages[22m ─────────────────────────────────────── tidyverse 1.3.0 ──
+5.9s 56 
+5.9s 57 [32m✔[39m [34mtibble [39m 3.0.6     [32m✔[39m [34mstringr[39m 1.4.0
+5.9s 58 [32m✔[39m [34mreadr  [39m 1.4.0     [32m✔[39m [34mforcats[39m 0.5.0
+5.9s 59 [32m✔[39m [34mpurrr  [39m 0.3.4
+5.9s 60 
+5.9s 61 
+5.9s 62 [32m✔[39m [34mtibble [39m 3.0.6     [32m✔[39m [34mstringr[39m 1.4.0
+5.9s 63 [32m✔[39m [34mreadr  [39m 1.4.0     [32m✔[39m [34mforcats[39m 0.5.0
+5.9s 64 [32m✔[39m [34mpurrr  [39m 0.3.4
+5.9s 65 
+6.0s 66 ── [1mConflicts[22m ────────────────────────────────────────── tidyverse_conflicts() ──
+6.0s 67 [31m✖[39m [34mlubridate[39m::[32mas.difftime()[39m masks [34mbase[39m::as.difftime()
+6.0s 68 [31m✖[39m [34mlubridate[39m::[32mdate()[39m        masks [34mbase[39m::date()
+6.0s 69 [31m✖[39m [34mdplyr[39m::[32mfilter()[39m          masks [34mstats[39m::filter()
+6.0s 70 [31m✖[39m [34mlubridate[39m::[32mintersect()[39m   masks [34mbase[39m::intersect()
+6.0s 71 [31m✖[39m [34mdplyr[39m::[32mlag()[39m             masks [34mstats[39m::lag()
+6.0s 72 [31m✖[39m [34mlubridate[39m::[32msetdiff()[39m     masks [34mbase[39m::setdiff()
+6.0s 73 [31m✖[39m [34mlubridate[39m::[32munion()[39m       masks [34mbase[39m::union()
+6.0s 74 
+6.0s 75 
+6.0s 76 ── [1mConflicts[22m ────────────────────────────────────────── tidyverse_conflicts() ──
+6.0s 77 [31m✖[39m [34mlubridate[39m::[32mas.difftime()[39m masks [34mbase[39m::as.difftime()
+6.0s 78 [31m✖[39m [34mlubridate[39m::[32mdate()[39m        masks [34mbase[39m::date()
+6.0s 79 [31m✖[39m [34mdplyr[39m::[32mfilter()[39m          masks [34mstats[39m::filter()
+6.0s 80 [31m✖[39m [34mlubridate[39m::[32mintersect()[39m   masks [34mbase[39m::intersect()
+6.0s 81 [31m✖[39m [34mdplyr[39m::[32mlag()[39m             masks [34mstats[39m::lag()
+6.0s 82 [31m✖[39m [34mlubridate[39m::[32msetdiff()[39m     masks [34mbase[39m::setdiff()
+6.0s 83 [31m✖[39m [34mlubridate[39m::[32munion()[39m       masks [34mbase[39m::union()
+6.0s 84 
+6.0s 85 
+6.0s 86 Attaching package: ‘scales’
+6.0s 87 
+6.0s 88 
+6.0s 89 
+6.0s 90 
+6.0s 91 Attaching package: ‘scales’
+6.0s 92 
+6.0s 93 
+6.0s 94 The following object is masked from ‘package:purrr’:
+6.0s 95 
+6.0s 96 discard
+6.0s 97 
+6.0s 98 
+6.0s 99 
+6.0s 100 The following object is masked from ‘package:purrr’:
+6.0s 101 
+6.0s 102 discard
+6.0s 103 
+6.0s 104 
+6.0s 105 The following object is masked from ‘package:readr’:
+6.0s 106 
+6.0s 107 col_factor
+6.0s 108 
+6.0s 109 
+6.0s 110 
+6.0s 111 The following object is masked from ‘package:readr’:
+6.0s 112 
+6.0s 113 col_factor
+6.0s 114 
+6.0s 115 
+120.4s 116 `summarise()` has grouped output by 'month'. You can override using the `.groups` argument.
+120.4s 117 
+120.4s 118 
+120.4s 119 `summarise()` has grouped output by 'month'. You can override using the `.groups` argument.
+120.4s 120 
+122.0s 121 `summarise()` has grouped output by 'dayofweek'. You can override using the `.groups` argument.
+122.0s 122 
+122.0s 123 
+122.0s 124 `summarise()` has grouped output by 'dayofweek'. You can override using the `.groups` argument.
+122.0s 125 
+123.7s 126 `summarise()` has grouped output by 'day'. You can override using the `.groups` argument.
+123.7s 127 
+123.7s 128 
+123.7s 129 `summarise()` has grouped output by 'day'. You can override using the `.groups` argument.
+123.7s 130 
+124.6s 131 `summarise()` has grouped output by 'month'. You can override using the `.groups` argument.
+124.6s 132 
+124.6s 133 
+124.6s 134 `summarise()` has grouped output by 'month'. You can override using the `.groups` argument.
+124.6s 135 
+130.3s 136 Warning message:
+130.3s 137 “Removed 70180 rows containing missing values (geom_point).”
+130.3s 138 
+130.3s 139 Warning message:
+130.3s 140 “Removed 70180 rows containing missing values (geom_point).”
+316.9s 141 /usr/local/lib/python3.7/dist-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+316.9s 142 FutureWarning,
+316.9s 143 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+317.3s 144 [NbConvertApp] Writing 1271830 bytes to __notebook__.ipynb
+317.7s 145 /usr/local/lib/python3.7/dist-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+317.7s 146 FutureWarning,
+317.7s 147 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+318.3s 148 [NbConvertApp] Support files will be in __results___files/
+318.3s 149 [NbConvertApp] Making directory __results___files
+318.3s 150 [NbConvertApp] Making directory __results___files
+318.3s 151 [NbConvertApp] Making directory __results___files
+318.3s 152 [NbConvertApp] Making directory __results___files
+318.3s 153 [NbConvertApp] Making directory __results___files
+318.3s 154 [NbConvertApp] Making directory __results___files
+318.3s 155 [NbConvertApp] Making directory __results___files
+318.3s 156 [NbConvertApp] Making directory __results___files
+318.3s 157 [NbConvertApp] Making directory __results___files
+318.3s 158 [NbConvertApp] Writing 1133860 bytes to __results__.html
+318.4s 159 The dimensions of the data are: 4534327 4
